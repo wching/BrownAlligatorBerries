@@ -1,6 +1,6 @@
 # BrownAlligatorBerries
 
-Use of Node for testing Google Actions
+Use of Node.js for testing Google Actions / Rest Api / A lot of things :)
 
 ![](https://i.pinimg.com/originals/bc/8c/27/bc8c27f6477b75292caa22a484fe5ae5.jpg)
 
